@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5296,
+  "expoServerNgrokUrl": "https://ha-wqq.anonymous.todo-list.exp.direct",
+  "packagerNgrokUrl": "https://packager.ha-wqq.anonymous.todo-list.exp.direct",
+  "ngrokPid": 8080
+}
